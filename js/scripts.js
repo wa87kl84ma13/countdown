@@ -7,7 +7,7 @@ const loading = document.getElementById('loading');
 
 const currentYear = new Date().getFullYear();
 
-const targetDate = new Date(`June 16 ${currentYear} 00:00:00`);
+const targetDate = new Date(`June 19 ${currentYear} 00:00:00`);
 
 function updateCountDown() {
     const currentTime = new Date();
