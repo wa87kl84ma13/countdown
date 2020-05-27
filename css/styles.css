@@ -94,7 +94,7 @@ small {
     h1 {
         font-size: 28px;
         line-height: 32px;
-        margin-top: 45%;
+        margin-top: 25%;
     }
 
     .time h2 {
@@ -108,7 +108,7 @@ small {
 
     #release-date {
         font-size: 44px;
-        bottom: 50px;
+        bottom: 20px;
         left: 10%;
     }
 }
